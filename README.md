@@ -4,7 +4,7 @@
 
 本书封面：
 
-![](/home/chenrui/桌面/C++%20high%20performance%20chinese%20ver/Cover.jpg)
+![](./Cover.jpg "Cover.jpg")
 
 本书作者： Bjorn Andrist、Viktor Sehr
 
